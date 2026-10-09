@@ -2,7 +2,7 @@
 
 1. URL repository, https://github.com/Wilsaadwi/proyek_akuisisi_data.git .
 2. Output git log --oneline (2bd58ae (HEAD -> main) chore: inisialisasi struktur proyek akuisisi data).
-3. ![image](https://github.com/Wilsaadwi/proyek_akuisisi_data/blob/main/reports/Screenshot%20(288).png?raw=true)
+3. ![image](https://github.com/Wilsaadwi/proyek_akuisisi_data/blob/main/reports/Screenshot%20(289).png?raw=true)
 4. Jalur yang dipakai (terminal, Jupyter, atau Colab) dan kendala yang ditemui beserta
 solusinya.
 
